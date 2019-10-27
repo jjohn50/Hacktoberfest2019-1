@@ -334,4 +334,8 @@
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
+  {
+    "title": "git tag"
+    "description": "This command is used to give tags to the specified commit." 
+  }
 ]
